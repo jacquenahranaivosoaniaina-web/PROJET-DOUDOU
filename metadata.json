@@ -1,0 +1,6 @@
+{
+  "name": "Doudou, My Univers",
+  "description": "Notre système solaire, notre histoire, notre aventure…",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
